@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "name": "test_confulent",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "count",
+      "type": "int"
+    },
+    {
+      "name": "modified",
+      "type": "long"
+    }
+  ]
+}

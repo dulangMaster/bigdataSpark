@@ -1,0 +1,7 @@
+{"type":"record","name":"test_confulent",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "name", "type": "string"},
+     {"name": "count", "type": ["int", "null"]}
+ ]
+}
